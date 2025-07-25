@@ -14,3 +14,31 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# 🛋️ Home Furniture App
+
+A simple Flutter app for browsing home furniture products with a clean and elegant design.
+
+## 🎯 Features
+
+- Beautiful UI with a gold primary color and Poppins font.
+- Bottom Navigation Bar for easy navigation.
+- Built-in search bar to filter products.
+- Horizontal scrolling for categories (Sofas, Wardrobe, Desk, etc).
+- Product item cards with image, name, description, price, and “Add to Cart” button.
+- Favorite icon toggle (filled or outlined).
+- Responsive and easy-to-expand design.
+
+## 📱 Screenshots
+
+<p float="left">
+  <img src="https://i.imgur.com/ZgE1WxS.png" width="200"/>
+
+</p>
+
+## 🚀 How to Run
+
+1. Make sure Flutter is installed: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+2. Clone this repo:
+   ```bash
+   git clone https://github.com/toqaawad05/home-app.git
