@@ -7,7 +7,7 @@ This app includes a bottom navigation bar, a search feature, categories section,
 
 ## 📱 App Screenshot
 
-![Home Page](image/Screenshot%202025-07-25%20214210.png.png)
+ <img src="image/Screenshot 2025-07-25 214210.png" alt="Home Screen" width="50%" style="max-width: 50px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
 
 ---
 
